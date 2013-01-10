@@ -1,0 +1,10 @@
+{
+  "name": "mouse",
+  "description": "mouse component system",
+  "version": "0.0.1",
+  "keywords": ["game", "mouse", "component", "system"],
+  "dependencies": {
+    "entity/vector": "*"
+  },
+  "scripts": ["index.js"]
+}
